@@ -1,0 +1,7 @@
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\bin\Debug\2_kalitim_ornek.exe.config
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\bin\Debug\2_kalitim_ornek.exe
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\bin\Debug\2_kalitim_ornek.pdb
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\obj\Debug\2_kalitim_ornek.csprojAssemblyReference.cache
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\obj\Debug\2_kalitim_ornek.csproj.CoreCompileInputs.cache
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\obj\Debug\2_kalitim_ornek.exe
+E:\visual_projeler\WCA_kalitim\2_kalitim_ornek\obj\Debug\2_kalitim_ornek.pdb

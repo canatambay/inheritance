@@ -1,0 +1,7 @@
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\bin\Debug\WCA_kalitim.exe.config
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\bin\Debug\WCA_kalitim.exe
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\bin\Debug\WCA_kalitim.pdb
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\obj\Debug\WCA_kalitim.csprojAssemblyReference.cache
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\obj\Debug\WCA_kalitim.csproj.CoreCompileInputs.cache
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\obj\Debug\WCA_kalitim.exe
+E:\visual_projeler\WCA_kalitim\WCA_kalitim\obj\Debug\WCA_kalitim.pdb
